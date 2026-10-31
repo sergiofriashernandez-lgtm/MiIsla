@@ -20,7 +20,7 @@ echo "▸ Compilando (release)…"
 swift build -c release
 BIN_DIR="$(swift build -c release --show-bin-path)"
 
-echo "▸ Armando $APP…"
+echo "▸ Armando ${APP}..."
 rm -rf "$APP"
 mkdir -p "$APP/Contents/MacOS" "$APP/Contents/Resources"
 cp "$BIN_DIR/MiIsla" "$APP/Contents/MacOS/MiIsla"
