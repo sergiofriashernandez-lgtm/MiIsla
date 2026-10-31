@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+.swiftpm/
+*.xcodeproj
+xcuserdata/
+MiIsla.app/
+dist/
+# Tus imágenes personales (p. ej. foto de tus AirPods): no se publican.
+Personal/

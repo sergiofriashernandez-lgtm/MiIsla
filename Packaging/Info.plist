@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.sergioisla.app</string>
+	<key>CFBundleName</key>
+	<string>MiIsla</string>
+	<key>CFBundleDisplayName</key>
+	<string>MiIsla</string>
+	<key>CFBundleExecutable</key>
+	<string>MiIsla</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.3.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.music</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>MIT License. Not affiliated with Apple Inc.</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>MiIsla controla Música (y, si lo activas, YouTube Music en tu navegador) para mostrar la canción actual y los controles.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>MiIsla detecta cuando conectas tus AirPods para mostrar su animación y batería.</string>
+</dict>
+</plist>
